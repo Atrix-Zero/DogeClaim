@@ -1,0 +1,9 @@
+//** PROPERTY OF MAESTRO REPUBLIC **//
+
+//enter your expresscrypto id
+<ec="EC-UserId-81101">
+	
+//enter your user_agent
+<ua="Mozilla/5.0 (Linux; Android 9; BLA-A09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36">
+
+Do not try to modify/delete any text or else script will not work!!!
